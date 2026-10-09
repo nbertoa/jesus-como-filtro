@@ -20,8 +20,10 @@ La secuencia es significativa:
 
 1. Elisabet es presentada como recta ante Dios.
 2. Al mismo tiempo, es estéril.
-3. Por lo tanto, su esterilidad no puede utilizarse dentro del propio relato como evidencia de desaprobación divina.
+3. La esterilidad, por sí misma, no funciona en el relato como un indicador fiable de cómo Dios valora, favorece o desaprueba a una persona.
 4. La vergüenza o censura asociada a su condición aparece explícitamente situada «entre los hombres».
+
+El hecho de que Elisabet sea descrita como recta sirve para desmontar, en su caso concreto, la asociación entre esterilidad y desaprobación divina. Pero no debe invertirse la lógica y concluir que una persona no recta sí podría ser considerada estéril como castigo. El punto más amplio que merece investigarse es que una condición física o dolorosa no debe utilizarse por sí sola para inferir el juicio, favor o desaprobación de Dios sobre una persona.
 
 Esto permite distinguir entre cómo una comunidad interpreta una condición y cómo Dios mira realmente a la persona.
 
@@ -32,7 +34,7 @@ El texto no afirma que Dios haya causado su esterilidad con el propósito de man
 Por eso, una lectura posible —compatible con una perspectiva médico-restauradora, pero todavía interpretativa— es la siguiente:
 
 - Elisabet tenía una condición real de esterilidad.
-- Esa condición no era señal de rechazo ni castigo de Dios.
+- Esa condición no era, en sí misma, una señal fiable de rechazo, castigo, favor o desaprobación de Dios.
 - Dios intervino posteriormente de manera favorable, concediendo a Elisabet y Zacarías algo que deseaban profundamente.
 - El regalo fue todavía mayor porque el hijo recibido tendría una misión excepcional en relación con la llegada de Jesús.
 
@@ -72,7 +74,7 @@ Esta formulación debe seguir contrastándose con el conjunto de la vida y ense�
 - **Sólido:** Lucas presenta a Elisabet como recta ante Dios mientras todavía es estéril.
 - **Sólido:** Elisabet describe la censura de su esterilidad como algo que pesaba sobre ella «entre los hombres».
 - **Sólido:** en Juan 9 Jesús rechaza, para el hombre ciego de nacimiento, la explicación propuesta que vinculaba directamente su discapacidad con un pecado suyo o de sus padres.
-- **Probable:** Lucas 1 permite cuestionar la asociación entre esterilidad y desaprobación divina.
+- **Probable:** Lucas 1 permite cuestionar que la esterilidad funcione como indicador del favor o desaprobación divina.
 - **Posible:** Dios no causó la esterilidad de Elisabet, sino que intervino restauradoramente sobre una condición ya existente.
 - **Abierto:** cuál es el origen último de la esterilidad de Elisabet; el texto no lo explica.
 - **Abierto:** hasta qué punto puede formularse un principio general acerca del origen de enfermedad, discapacidad y sufrimiento a partir de estos episodios.
