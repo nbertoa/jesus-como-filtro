@@ -14,9 +14,13 @@ La vida, palabras, acciones y carácter de Jesús —especialmente según los cu
 
 Una aparente contradicción con Jesús abre una investigación. No autoriza por sí sola a inventar una explicación.
 
+## Repositorio auxiliar
+
+`nbertoa/jesus-cronologico` se utiliza como fuente auxiliar para localizar episodios, recuperar contexto narrativo y cronológico, identificar relatos paralelos y consultar investigación previa sobre la vida de Jesús. No reemplaza el examen directo de los cuatro Evangelios ni funciona como autoridad teológica; sus armonizaciones y conclusiones deben evaluarse según la evidencia y el grado de certeza correspondiente.
+
 ## Estructura
 
-- `METHODOLOGY.md`: método y controles contra sesgos.
+- `METHODOLOGY.md`: método, uso de fuentes auxiliares y controles contra sesgos.
 - `JESUS-MATRIX.md`: matriz acumulativa de lo que Jesús revela.
 - `OPEN-QUESTIONS.md`: problemas todavía no resueltos.
 - `DECISIONS.md`: decisiones metodológicas estables y revisables.
