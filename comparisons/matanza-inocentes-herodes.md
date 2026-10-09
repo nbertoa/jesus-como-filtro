@@ -123,11 +123,20 @@ Hay, sin embargo, varias líneas cristianas de esperanza:
 - Varios teólogos evangélicos/reformados sostienen que quienes mueren en la infancia son salvados por gracia.
 - Ellen White describe en otros escritos a pequeños niños resucitando inmortales y reuniéndose con sus madres, aunque en otros textos deja sin resolver explícitamente el destino de todos los hijos de padres incrédulos.
 
-### Hipótesis restauradora
+### Convicción restauradora de trabajo
 
-Es razonable investigar la posibilidad de que todos estos niños sean finalmente restaurados y salvos. Si fuera así, la muerte no sería su final y Dios les devolvería una vida que Herodes les arrebató.
+Dentro de la perspectiva restauradora que orienta actualmente esta investigación, se sostiene como convicción teológica que estos niños —tanto los asesinados por Herodes como los niños muertos bajo Faraón en Egipto— serán finalmente salvados y restaurados. Esta convicción no se deriva específicamente de Mateo 2 ni de Éxodo, sino del marco más amplio de restauración universal que debe seguir siendo evaluado a la luz de Jesús.
 
-Pero incluso una restauración final perfecta no transforma retrospectivamente el asesinato en algo bueno ni vuelve irrelevante el dolor de los padres. La restauración puede responder al destino final de la víctima; todavía queda abierta la cuestión de la no intervención inicial.
+Esa convicción cambia la pregunta sobre el destino último de las víctimas: Herodes y Faraón no tendrían la última palabra sobre sus vidas. Sin embargo, no debe utilizarse como explicación retrospectiva de la tragedia.
+
+Afirmar que los niños serán restaurados no responde:
+
+- por qué Dios no impidió su muerte;
+- por qué permitió el terror y el dolor de los niños y sus familias;
+- por qué intervino en otros episodios y no de una manera equivalente aquí;
+- qué finalidad, si alguna, tuvo permitir que estas consecuencias ocurrieran.
+
+Por tanto, **la restauración final de las víctimas y la explicación de la no intervención divina son dos preguntas distintas**. Puede mantenerse una convicción fuerte respecto de la primera y, al mismo tiempo, reconocer honestamente que la segunda permanece sin respuesta.
 
 ## Los soldados
 
@@ -151,11 +160,13 @@ Sí aparecen varios datos:
 
 La matanza de los inocentes debe permanecer como una tensión abierta de alta importancia para el proyecto.
 
-No hay base en Mateo para afirmar que Dios quiso, causó o utilizó punitivamente esas muertes. Herodes es el agresor. La esperanza de una restauración final de los niños es coherente con líneas importantes de la tradición cristiana y merece investigación, pero no debe utilizarse para minimizar la atrocidad ni el duelo de sus familias.
+No hay base en Mateo para afirmar que Dios quiso, causó o utilizó punitivamente esas muertes. Herodes es el agresor. Dentro de la perspectiva restauradora del proyecto existe una convicción fuerte de que las víctimas inocentes serán finalmente restauradas, pero esa convicción no debe presentarse como una explicación del motivo de su muerte ni como una respuesta al sufrimiento de sus familias.
 
-La pregunta central permanece:
+La pregunta más difícil permanece abierta y debe conservarse sin rellenarla con una teodicea no demostrada:
 
 **Si Jesús revela que Dios quiere restaurar la vida y posee poder sobre la muerte, ¿qué determina o limita sus intervenciones presentes, de modo que algunas veces rescata y otras permite que el mal alcance a víctimas inocentes?**
+
+La misma pregunta debe compararse en el futuro con los niños muertos bajo Faraón en Egipto y con otros episodios bíblicos donde víctimas inocentes sufren mientras Dios interviene de manera selectiva o aparentemente no interviene.
 
 ## Nivel de confianza
 
@@ -164,8 +175,9 @@ La pregunta central permanece:
 - **Sólido:** Jesús rechaza en Lucas 13 la asociación simple entre tragedia y mayor culpabilidad.
 - **Sólido:** la explicación punitiva de Ellen White va más allá de lo que Mateo afirma explícitamente.
 - **Probable:** la lectura de Ellen White entra en tensión significativa con el patrón de Jesús frente a las víctimas de tragedia.
-- **Posible:** todos los niños asesinados fueron o serán finalmente salvados/restaurados.
+- **Convicción teológica de trabajo:** los niños asesinados por Herodes y los niños muertos bajo Faraón serán finalmente salvados/restaurados; esta convicción procede del marco restaurador más amplio, no de una afirmación explícita de Mateo 2.
 - **Abierto:** por qué Dios no impidió la matanza.
+- **Abierto:** qué propósito, si alguno, tuvo permitir que ocurriera.
 - **Abierto:** cuál es el principio que determina cuándo Dios interviene para limitar el mal en la historia.
 - **Abierto:** la historicidad exacta del episodio, que sigue siendo discutida académicamente.
 
