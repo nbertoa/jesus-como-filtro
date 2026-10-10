@@ -1,40 +1,91 @@
 # Preguntas abiertas
 
-## Carácter de Dios y violencia
+Este archivo funciona como agenda de investigación. Las preguntas profundas no esperan a que exista un filtro terminado: **son el lugar donde el filtro se construye**.
 
-- ¿Jesús revela un principio universal respecto de la violencia o responde de manera contextual a casos concretos?
-- ¿Cómo deben interpretarse los relatos donde el narrador bíblico atribuye directamente a YHWH una muerte?
-- ¿Puede la causalidad divina bíblica expresar permiso, retirada de protección o acción mediante agentes secundarios? ¿Cuándo?
-- ¿Qué criterios textuales permiten distinguir esos casos sin imponer una teoría externa?
+## Prioridad inicial
 
-## Fuego del cielo
+### ¿Dios mata?
 
-- ¿Qué relación literaria y teológica existe entre 2 Reyes 1 y Lucas 9:51–56?
-- ¿Por qué Jesús reprende la propuesta de repetir el patrón de Elías?
-- ¿Qué demuestra exactamente Job 1:16 sobre la expresión «fuego de Dios»?
-- ¿Qué implica Apocalipsis 13:13–14 al presentar fuego del cielo como señal engañosa?
-- ¿Deben distinguirse el fuego que acepta/consume sacrificios y el fuego asociado con muerte?
-- ¿Qué ocurre físicamente con Nadab y Abiú en Levítico 10, dado que sus cuerpos y túnicas pueden ser retirados?
-- ¿Qué aporta Daniel 3, donde el fuego mata a quienes arrojan a los jóvenes pero no daña a los jóvenes protegidos?
+Investigar la pregunta comenzando por Jesús y sin asumir de antemano una respuesta.
 
-## Atribución y reinterpretación
+Líneas necesarias:
 
-- ¿Cómo explicar la diferencia entre 2 Samuel 24:1 (YHWH incita a David) y 1 Crónicas 21:1 (el adversario/Satán incita a David)?
-- ¿Es un ejemplo de agente secundario, lenguaje de soberanía o reinterpretación teológica posterior?
-- ¿Existen otros pares bíblicos comparables?
+- ¿Jesús mata, ordena matar o utiliza poder destructivo contra alguien?
+- ¿Qué hace cuando posee poder para destruir y decide no hacerlo?
+- ¿Cómo responde a propuestas de violencia en nombre de Dios?
+- ¿Cómo trata a enemigos, perseguidores y personas que lo rechazan?
+- ¿Cómo entiende muerte, destrucción, juicio y Gehena?
+- ¿Qué episodios podrían cuestionar una lectura no violenta de Jesús?
+- ¿Qué diferencia hay entre acción divina directa, permiso, consecuencia, retirada de protección y acción de otros agentes?
+- Después de establecer la evidencia de Jesús, ¿cómo dialoga con los relatos bíblicos que atribuyen muerte directamente a Dios?
 
-## Casos difíciles
+## Grandes temas relacionados
+
+### Juicio
+
+- ¿Qué significa juzgar para Jesús?
+- ¿Su juicio es diagnóstico, restaurador, retributivo, destructivo o puede adoptar más de una forma?
+- ¿Cómo encajan Juan 3, Juan 5, Juan 9, Juan 12, las parábolas de juicio y las escenas escatológicas?
+- ¿Qué evidencia contradice una lectura exclusivamente restauradora?
+
+### Castigo y consecuencias
+
+- ¿Jesús presenta a Dios infligiendo sufrimiento como castigo?
+- ¿Cómo distingue pecado, consecuencia, disciplina, juicio y destrucción?
+- ¿Qué revela su manera concreta de tratar a pecadores?
+
+### Enemigos y rechazo
+
+- ¿Cómo trata Jesús a quienes lo odian, persiguen, traicionan o rechazan?
+- ¿El mandato de amar enemigos describe también al Padre?
+- ¿Existen excepciones significativas en la vida o enseñanzas de Jesús?
+
+### Libertad humana
+
+- ¿Hasta dónde permite Jesús decisiones contrarias a su voluntad?
+- ¿Cuándo interviene para limitar o reparar daño?
+- ¿Qué revela esto sobre coerción, permiso y responsabilidad?
+
+### Satanás, destrucción, enfermedad y muerte
+
+- ¿Qué atribuye Jesús explícitamente a Satanás?
+- ¿Cómo entiende la enfermedad y el sufrimiento?
+- ¿Cómo trata la muerte: instrumento de Dios, consecuencia, enemigo o realidad con más de una dimensión?
+- ¿Qué puede afirmarse sin convertir a Satanás en explicación automática?
+
+### Ira de Dios
+
+- ¿Cómo expresa Jesús indignación o ira?
+- ¿Contra quién y por qué?
+- ¿Qué hace concretamente cuando está airado?
+- ¿Qué revela esto —y qué no revela— acerca de la ira de Dios?
+
+### Gehena y destrucción final
+
+- ¿Qué quiere decir Jesús cuando habla de Gehena, destrucción, fuego, tinieblas, exclusión y muerte?
+- ¿Qué imágenes son parabólicas, proféticas o literales?
+- ¿Qué modelo de juicio final representa mejor el conjunto de su enseñanza?
+
+### Poder
+
+- ¿Cómo usa Jesús el poder cuando podría coaccionar, castigar o destruir?
+- ¿Qué decide no hacer?
+- ¿Cómo se relacionan poder, servicio, cruz y revelación del Padre?
+
+## Tensiones bíblicas que deberán investigarse después de establecer la evidencia de Jesús
 
 - Sodoma y Gomorra.
-- Nadab y Abiú.
-- Los 250 de Números 16.
-- Onán frente a Caín.
 - Diluvio.
 - Primogénitos de Egipto.
+- Nadab y Abiú.
+- Números 16.
 - Guerras y mandatos de exterminio.
+- Caín y Onán.
+- 2 Samuel 24 y 1 Crónicas 21.
+- Elías y el fuego del cielo.
 - Ananías y Safira.
 - Juicios y fuego en Apocalipsis.
 
-## Jesús mismo
+## Regla
 
-Antes de utilizar a Jesús como filtro definitivo, estudiar exhaustivamente los pasajes potencialmente difíciles: dichos de juicio, Gehena, destrucción, parábolas violentas, expulsión del templo, maldición de la higuera y escenas escatológicas.
+No usar esta lista como un programa rígido. Puede aparecer cualquier otra pregunta profunda. Si ayuda a conocer mejor el carácter de Dios a través de Jesús, pertenece al proyecto.
