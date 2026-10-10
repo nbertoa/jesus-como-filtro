@@ -67,3 +67,18 @@ No es necesario guardar cada conversación ni cada observación menor.
 **Decisión:** utilizar `nbertoa/jesus-cronologico` para ubicar episodios, recuperar contexto narrativo y cronológico, identificar relatos paralelos y reutilizar investigación pertinente.
 
 **Límite:** no sustituye los cuatro Evangelios ni constituye autoridad teológica. Sus armonizaciones, decisiones cronológicas e interpretaciones deben conservar su grado real de certeza.
+
+## D-012 — Jesús en el centro del estudio, la meditación y la contemplación
+
+**Decisión:** mantener a Jesús —su vida, palabras, decisiones, acciones, omisiones y carácter— en el centro no sólo de la investigación doctrinal, sino también del estudio, la meditación y la contemplación cristiana.
+
+**Razón:** Marcos abre su relato poniendo a Jesús en el centro de las buenas nuevas, y Lucas presenta el conocimiento de los acontecimientos acerca de Jesús como algo que merece ser recibido, investigado y ordenado cuidadosamente. Esto apoya la prioridad de volver una y otra vez a los Evangelios para conocer a Jesús en contexto.
+
+**Implicaciones:** 
+
+- los Evangelios funcionan como fuente primaria para contemplar a Jesús y como criterio primordial para releer el resto de la Escritura;
+- otros contenidos —comentarios, sistemas teológicos, información histórica, investigaciones e incluso testimonios personales— pueden ser útiles, pero permanecen secundarios y deben ser evaluados a la luz de Jesús;
+- los testimonios personales pueden formar parte de la reflexión y ayudar a reconocer cómo una comprensión de Dios opera en la vida, pero no sustituyen la evidencia textual ni constituyen autoridad doctrinal;
+- la contemplación de Jesús no se entiende sólo como adquisición de información, sino como una práctica orientada a conocer su carácter y permitir que esa visión transforme al creyente.
+
+**Límite epistemológico:** Lucas 1:1-4 y Marcos 1:1 apoyan directamente la centralidad de Jesús y el valor de investigar cuidadosamente su historia. La afirmación de que contemplar a Jesús transforma al creyente y que los Evangelios sirven para releer el Antiguo Testamento pertenece a una síntesis bíblica más amplia del proyecto; no debe atribuirse exclusivamente a estos versículos.
