@@ -10,7 +10,7 @@ No es un filtro terminado, una teología previa ni una lista que deba completars
 | Violencia | Mt 26:51–54; Lc 22:49–51; Jn 18:10–11 | Jesús detiene la violencia de Pedro y, según Lucas, sana al herido. | Investigar contraevidencia |
 | Rechazo | Lc 9:51–56 | Jesús reprende la propuesta de responder al rechazo samaritano con fuego del cielo. | Investigar alcance |
 | Perdón | Lc 23:33–34 | Jesús responde a la crucifixión pidiendo perdón para sus ejecutores; debe considerarse la cuestión textual del versículo. | Provisional |
-| Revelación del Padre | Jn 1:18; 14:9; Mt 11:27 | Jesús se presenta como acceso decisivo al conocimiento del Padre. | Prioridad metodológica |
+| Revelación del Padre | Jn 1:14–18; 14:9; Mt 11:27 | Juan presenta al Logos hecho carne como aquel en quien se contempla la gloria, lleno de gracia y verdad, y afirma que Jesús da a conocer al Dios que nadie ha visto. Esto sostiene una prioridad cristocéntrica para investigar el carácter del Padre, sin implicar por sí solo que todo texto anterior sea falso o prescindible. | Prioridad metodológica; evidencia fuerte |
 | Juicio | Jn 3:16–21; 5:19–30; 9:39–41; 12:47–50 | El lenguaje de juicio en Jesús no debe suponerse de antemano ni exclusivamente retributivo ni exclusivamente restaurador. | Investigación profunda pendiente |
 | Libertad humana | Pedro/Malco; múltiples rechazos de Jesús | Jesús permite decisiones contrarias a su voluntad, pero también interviene en ocasiones para limitar o reparar daño. | Investigar patrón y límites |
 | Satanás / destrucción | Jn 8:44; 10:10; Lc 13:10–16 | Jesús asocia al adversario con mentira, esclavitud y destrucción en distintos contextos; hay que precisar el alcance. | Investigar sin convertirlo en explicación por defecto |
