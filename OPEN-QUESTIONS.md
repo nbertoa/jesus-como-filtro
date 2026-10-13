@@ -53,6 +53,28 @@ Líneas necesarias:
 - ¿Cómo trata la muerte: instrumento de Dios, consecuencia, enemigo o realidad con más de una dimensión?
 - ¿Qué puede afirmarse sin convertir a Satanás en explicación automática?
 
+### Fuego en la Biblia — estudio futuro exhaustivo
+
+Realizar en algún momento un estudio sistemático de **todos los usos relevantes del fuego en la Biblia**, sin asumir de antemano que todo fuego sobrenatural proviene de Dios ni que todo fuego destructivo proviene de Satanás.
+
+Preguntas rectoras:
+
+- ¿Qué episodios atribuyen explícitamente el fuego a Dios?
+- ¿Qué episodios atribuyen fuego o fenómenos semejantes al adversario, a otros agentes espirituales, a seres humanos o a causas naturales?
+- ¿Qué diferencia hay entre que el texto diga «fuego de Dios», «fuego del cielo», «fuego delante de Dios» o simplemente «fuego»?
+- ¿Cuándo el fuego representa presencia, santidad, purificación, revelación, protección, juicio, destrucción o engaño?
+- ¿Cómo es el «fuego de Dios» cuando se observa desde la vida y enseñanzas de Jesús?
+- ¿Cómo es el fuego asociado con Satanás o con poderes engañadores?
+- ¿Puede el mismo símbolo —fuego— ser utilizado por agentes distintos y con propósitos opuestos?
+- ¿Qué enseña Job sobre atribuciones humanas de fenómenos destructivos a Dios cuando existe un agente adversario detrás?
+- ¿Qué aporta Apocalipsis 13, donde un poder engañador hace descender fuego del cielo?
+- ¿Cómo deben releerse Elías, Sodoma, Sinaí, sacrificios, Pentecostés, Gehena y Apocalipsis dentro de este mapa completo?
+- ¿Qué criterios aporta Jesús para discernir si una manifestación de poder refleja realmente el carácter del Padre?
+
+Objetivo del estudio:
+
+> **Distinguir cuidadosamente entre atribución textual, agente real, función simbólica y revelación del carácter, para preguntar finalmente: cómo es el fuego de Dios y cómo es el fuego del adversario según el conjunto de la Escritura leído desde Jesús.**
+
 ### Ira de Dios
 
 - ¿Cómo expresa Jesús indignación o ira?
