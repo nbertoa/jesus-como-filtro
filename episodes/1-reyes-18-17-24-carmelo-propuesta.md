@@ -1,5 +1,15 @@
 # 1 Reyes 18:17–24 — Carmelo: la propuesta de Elías
 
+> **Control de alcance — 2026-10-15.** Este expediente reúne una unidad mayor que los capítulos actuales del libro. Para 18:17–20, consultar el estudio específico [responsabilidad, calamidad y convocatoria](1-reyes-18-17-20-responsabilidad-perturbador-israel.md), que verifica hebreo, causalidad, Acán/Acár, casa de Omri, variantes y Asera. La propuesta de 18:21–24 queda para el capítulo 8, todavía no iniciado. Las hipótesis sobre fuego y psicología que siguen no son conclusiones ratificadas por la revisión de 17–20.
+
+## Control específico de la acusación y la convocatoria
+
+Acab tiene una razón contextual para relacionar a Elías con la calamidad: 17:1 vincula el anuncio a su palabra y Santiago 5:17 a una oración deliberada. Esa participación no equivale automáticamente a culpabilidad moral ni hace suficiente la explicación del rey. Elías rechaza la imputación de ser el perturbador y señala la infidelidad real de Acab y su dinastía; el marco deuteronómico favorece su denuncia. Es fuerte la lectura de una negación de culpabilidad por el juicio, compatible con mediación profética, aunque el hebreo no añade literalmente esa distinción.
+
+No escribir que ambos son igual de culpables, que Elías miente o que evita conscientemente asumir su parte. La pregunta cristocéntrica por el costo del método permanece legítima sin convertirse en diagnóstico psicológico. «Casa de tu padre» refiere a la dinastía de Omri; el plural abandonar y el singular seguir distinguen responsabilidad de la casa y decisiones propias de Acab.
+
+La promesa de 18:1 precede al intercambio acusatorio, pero confrontar puede ser parte de la restauración y no demuestra oposición del profeta a Dios. Los 400 de Asera pertenecen a la convocatoria del masorético; 20 no ofrece una nómina de asistencia. El griego consultado los menciona también en 22. No inventar negativa de asistencia, protección de Jezabel o destino final. Acab ejecuta la convocatoria sin que se expliquen sus motivos.
+
 ## Pregunta
 
 ¿Qué revela la propuesta del Carmelo sobre la imagen de Dios que tiene Elías, y hasta qué punto ese modo de demostrar a Dios coincide con el carácter que Jesús revela del Padre?
@@ -77,9 +87,9 @@ La experiencia de Sarepta pudo haber enseñado a Elías varias cosas:
 - que Dios sostenía y restauraba vida;
 - que Elías mismo dependía de otros.
 
-Sin embargo, al reencontrarse con Acab, Elías vuelve rápidamente a un marco de confrontación y demostración de poder.
+Al reencontrarse con Acab, Elías confronta una infidelidad real mientras cumple la orden de presentarse recibida en 18:1. Esa confrontación no demuestra, por sí sola, una regresión después de Sarepta. La convocatoria de 18:19–20 debe distinguirse de la propuesta posterior de 18:21–24.
 
-No conviene decir que «no aprendió nada», pero sí es razonable inferir que todavía no había integrado plenamente lo aprendido.
+No puede inferirse del enfrentamiento, sin argumentos adicionales, cuánto integró interiormente aquellas experiencias. La formación de Elías y su comprensión del método quedan abiertas; no narrar fracaso de aprendizaje como hecho ni confundir denuncia verdadera con dureza injustificada.
 
 ## «Por tu palabra hice todas estas cosas»
 
@@ -165,7 +175,7 @@ La secuencia hasta aquí puede leerse así:
 4. Dios lo lleva a convivir con una viuda extranjera afectada por la crisis.
 5. Elías pasa de pedir juicio a suplicar vida para el hijo de la viuda.
 6. Dios anuncia que devolverá la lluvia.
-7. Elías, sin embargo, vuelve a plantear el conflicto en términos de demostración de poder mediante fuego.
+7. Elías confronta la responsabilidad de Acab y convoca al pueblo (18:17–20); después formula la propuesta de 18:21–24, que debe investigarse en su unidad propia sin dar por demostrada una regresión interior.
 
 Hipótesis interpretativa:
 
@@ -180,11 +190,13 @@ Hipótesis interpretativa:
 - **Sólido:** Abdías había protegido cien profetas de YHWH, por lo que Elías no era literalmente el único fiel disponible en la historia.
 - **Probable:** la prueba del fuego refleja la comprensión de Elías de que la divinidad debe demostrarse mediante poder irresistible.
 - **Probable:** el contraste fuego/agua tiene valor narrativo y teológico dentro de una historia dominada por sequía, provisión y restauración de vida.
-- **Posible:** Elías todavía no ha integrado plenamente las lecciones de Sarepta.
+- **Abierto:** cuánto ha integrado Elías las experiencias de Sarepta; su confrontación con Acab no permite diagnosticar por sí sola un aprendizaje fallido.
 - **Posible:** la tensión Elías–Jesús puede formularse como supremacía de poder frente a revelación del poder mediante amor.
 - **Abierto:** hasta qué punto el diseño concreto del Carmelo fue ordenado directamente por Dios.
 
 ## Próximo paso
+
+**Actualización de flujo — 2026-10-15:** el capítulo 7 se limita a 18:17–20 y queda pendiente de revisión del autor. No iniciar el capítulo 8 ni seguir la antigua agenda de este expediente como autorización de avance. La lista siguiente se conserva como agenda investigativa anterior para capítulos futuros.
 
 Estudiar 1 Reyes 18:25–39:
 
@@ -196,3 +208,4 @@ Estudiar 1 Reyes 18:25–39:
 - y, sobre todo, por qué Dios responde si el método pudo haber surgido de Elías.
 
 Después estudiar por separado 1 Reyes 18:40 y la matanza de los profetas de Baal.
+
