@@ -1,211 +1,62 @@
-# 1 Reyes 18:17–24 — Carmelo: la propuesta de Elías
+# ¿Qué permanece del expediente amplio sobre la propuesta del Carmelo?
 
-> **Control de alcance — 2026-10-15.** Este expediente reúne una unidad mayor que los capítulos actuales del libro. Para 18:17–20, consultar el estudio específico [responsabilidad, calamidad y convocatoria](1-reyes-18-17-20-responsabilidad-perturbador-israel.md), que verifica hebreo, causalidad, Acán/Acár, casa de Omri, variantes y Asera. La propuesta de 18:21–24 queda para el capítulo 8, todavía no iniciado. Las hipótesis sobre fuego y psicología que siguen no son conclusiones ratificadas por la revisión de 17–20.
+Actualización: 2026-10-15 (Córdoba). Este antecedente agrupaba dos unidades ahora investigadas por separado. Sus hipótesis fueron reevaluadas; no debe emplearse su redacción anterior como conclusión vigente.
 
-## Control específico de la acusación y la convocatoria
+## ¿Dónde están los estudios específicos?
 
-Acab tiene una razón contextual para relacionar a Elías con la calamidad: 17:1 vincula el anuncio a su palabra y Santiago 5:17 a una oración deliberada. Esa participación no equivale automáticamente a culpabilidad moral ni hace suficiente la explicación del rey. Elías rechaza la imputación de ser el perturbador y señala la infidelidad real de Acab y su dinastía; el marco deuteronómico favorece su denuncia. Es fuerte la lectura de una negación de culpabilidad por el juicio, compatible con mediación profética, aunque el hebreo no añade literalmente esa distinción.
+- [18:17–20: responsabilidad, calamidad y convocatoria](1-reyes-18-17-20-responsabilidad-perturbador-israel.md).
+- [18:21–24: lealtad, invocación y propuesta de fuego](1-reyes-18-21-24-carmelo-propuesta-fuego.md).
 
-No escribir que ambos son igual de culpables, que Elías miente o que evita conscientemente asumir su parte. La pregunta cristocéntrica por el costo del método permanece legítima sin convertirse en diagnóstico psicológico. «Casa de tu padre» refiere a la dinastía de Omri; el plural abandonar y el singular seguir distinguen responsabilidad de la casa y decisiones propias de Acab.
+El segundo contiene texto, traducción, hebreo, diferencias griegas, Baal/rayo, fuego sacrificial, análisis de 36–39, alternativas, Jesús, fuentes directamente consultadas y cierre previo a la escritura. Esta síntesis conserva el enlace de ambas unidades sin duplicar el expediente nuevo.
 
-La promesa de 18:1 precede al intercambio acusatorio, pero confrontar puede ser parte de la restauración y no demuestra oposición del profeta a Dios. Los 400 de Asera pertenecen a la convocatoria del masorético; 20 no ofrece una nómina de asistencia. El griego consultado los menciona también en 22. No inventar negativa de asistencia, protección de Jezabel o destino final. Acab ejecuta la convocatoria sin que se expliquen sus motivos.
+## ¿Qué sigue firme en la acusación y la convocatoria?
 
-## Pregunta
+Acab puede relacionar a Elías con la calamidad por 17:1 y la recepción de Stg 5:17. Ese vínculo no hace suficiente su imputación moral. El profeta denuncia el abandono real de YHWH por Acab y su dinastía. La lectura de un portavoz legítimo que señala la causa moral del juicio es fuerte en Reyes.
 
-¿Qué revela la propuesta del Carmelo sobre la imagen de Dios que tiene Elías, y hasta qué punto ese modo de demostrar a Dios coincide con el carácter que Jesús revela del Padre?
+No afirmar que ambos tienen igual culpa, que Elías miente al negar ser el perturbador o que evade conscientemente su responsabilidad. Participación causal y culpa no son equivalentes. La pregunta cristocéntrica por los medios permanece, sin diagnóstico de intenciones.
 
-## Texto base
+Presentarse ante Acab responde a 18:1. Confrontarlo no demuestra fracaso formativo después de Sarepta ni abandono de la promesa. Acab ejecuta la convocatoria sin explicar sus motivos.
 
-1 Reyes 18:17–24.
+Los 400 de Asera están en el masorético 19; el griego consultado también los menciona en 22. No deducir que Jezabel prohibió su asistencia o inventar su destino. El expediente específico de 17–20 desarrolla estos límites.
 
-## Hallazgos textuales
+## ¿Qué corrige la investigación de 21–24?
 
-- La orden explícita de YHWH en 1 Reyes 18:1 es que Elías se presente ante Acab porque Dios va a enviar lluvia.
-- El relato no registra una orden explícita de Dios para organizar una competencia en el Carmelo ni para escoger el fuego como criterio de prueba.
-- Elías confronta a Acab por abandonar los mandamientos de YHWH y seguir a los Baales.
-- Elías propone reunir a Israel y a los profetas de Baal/Asera.
-- Elías formula el criterio: «el Dios que responda con fuego, ése es Dios».
-- Más adelante, en 18:36, Elías afirma que ha hecho «todas estas cosas» por la palabra de Dios. Esta afirmación debe conservarse como contraevidencia real frente a una lectura donde todo el diseño del Carmelo fuera pura iniciativa personal.
+Se retira como conclusión la fórmula «Elías demuestra divinidad por supremacía de poder; Jesús por supremacía de amor». Elías llama a dejar una lealtad dividida, confía en que YHWH responde y propone una invocación sacrificial. Su criterio incluye poder, presencia y respuesta; no sólo dominación.
 
-## El problema del criterio elegido
+Baal no está asociado únicamente con lluvia: la tormenta y el rayo pertenecen también a su perfil documentado. Por tanto, el fuego puede confrontarlo dentro de su supuesto ámbito. «Elías debería haber pedido lluvia» es un contrafáctico que no demuestra defecto moral ni mejor obediencia. Se retira la contraposición de voluntades «Dios quería agua / Elías quería fuego».
 
-La propuesta de Elías busca demostrar quién es Dios mediante una exhibición de poder sobrenatural. El criterio no es quién ama más, quién restaura, quién da vida o quién muestra misericordia, sino quién puede responder de manera espectacular con fuego.
+El fuego sacrificial no equivale a fuego contra personas. Aceptación de ofrenda, presencia, señal pública y polémica contra Baal son lecturas compatibles. No se identifica con certeza el mecanismo físico como un relámpago ni se postula Sodoma como intención de Elías.
 
-Esto sugiere una diferencia teológica importante:
+18:36 afirma actuación por palabra divina. Su alcance preciso no está enumerado, pero la lectura de autorización es fuerte. No es justo decir que Elías inventó el Carmelo porque 18:1 no detalla el procedimiento. Mandato no narrado e iniciativa en ejecución siguen siendo posibilidades; una comprensión subjetiva equivocada no es la explicación preferente demostrada.
 
-> Elías parece intentar probar la divinidad mediante supremacía de poder; Jesús revela al Padre mediante supremacía de amor.
+18:37 expresa finalidad de conocimiento y contiene una cláusula difícil sobre volver el corazón hacia atrás. La lectura restauradora es contextual y fuerte, pero no única léxicamente. El reconocimiento del siervo corresponde a 36. La respuesta atribuida a YHWH en 38 confirma realmente la invocación: no puede minimizarse para salvar la hipótesis crítica.
 
-La cuestión no es negar la omnipotencia divina, sino preguntar qué hace Dios con su poder. En Jesús, el poder se manifiesta repetidamente en sanar, alimentar, liberar, restaurar, perdonar y entregar la propia vida por los enemigos.
+La lectura de acomodación sigue siendo posible, no evidencia de que Dios desapruebe silenciosamente la propuesta. La participación divina tampoco certifica automáticamente cada acción futura del profeta.
 
-## ¿Por qué fuego?
+## ¿Qué significa aquí yo solo?
 
-No sabemos con certeza por qué Elías escoge el fuego.
+18:22 dice ani notarti ... lebaddi; la formulación wa-iwwater ani lebaddi reaparece en 19:10,14 y no es transcripción idéntica. El procedimiento contrapone un representante de YHWH a muchos de Baal. El sentido de soledad pública es probable, aunque el limitador aquí no está escrito.
 
-Posibilidades:
+El lector conoce a los cien profetas escondidos. Su existencia impide borrar la tensión, pero no demuestra mentira, orgullo ni percepción enfermiza. El arco de Horeb se reserva para sus capítulos. La antigua hipótesis de «categorías absolutas» no queda ratificada como rasgo psicológico por esta unidad.
 
-- El fuego ya aparece en tradiciones anteriores como signo de presencia, aceptación sacrificial y juicio divino.
-- Es posible que Elías tenga en mente relatos como Sodoma y Gomorra, aunque el texto no lo dice.
-- Baal era una divinidad vinculada con tormenta, lluvia y fertilidad; una señal desde el cielo podía funcionar como desafío directo dentro de ese mundo simbólico.
+## ¿Qué comparación con Jesús queda mejor fundada?
 
-Sin embargo, permanece una tensión importante: después de años de sequía, lo que la tierra y la población necesitan es agua, no fuego.
+Jesús realiza señales y también rehúsa ciertas demandas. Mc 8:1–13 muestra compasión que alimenta y negativa a una prueba hostil procedente del cielo. No presenta a Elías como equivalente de los fariseos ni condena retrospectivamente su propuesta.
 
-## Una alternativa más misericordiosa
+La distinción útil es entre reconocer una intervención y conocer de manera más plena el carácter de quien interviene. Una respuesta ya puede revelar atención y favor. Jesús permite mirar el destino concreto del poder y conocer al Padre en el cuidado de las personas. Identidad y carácter se relacionan; no son dimensiones incomunicadas.
 
-Si el punto era demostrar quién controla verdaderamente la lluvia y la fertilidad, Elías podría haber propuesto un criterio diferente:
+## ¿Qué no debe heredarse de la versión anterior?
 
-> «El Dios que haga llover y devuelva vida a la tierra, ése es Dios».
+- Que la elección de fuego demuestre preferencia de Elías por fuerza sobre vida.
+- Que poder irresistible, miedo o sometimiento sean la finalidad o resultado psicológico ya probado en 21–24.
+- Que Sarepta deba haberlo transformado y Carmelo pruebe su regresión.
+- Que el agua posterior sea la última potable o prueba automática de desperdicio.
+- Que una mesa imaginada sea alternativa exegética a la propuesta.
+- Que responder sea irrelevante para interpretar la señal o que la señal agote todo conocimiento de Dios.
 
-Eso habría mostrado no sólo poder, sino también carácter: el Dios verdadero como aquel que devuelve agua, alimento, cosecha y vida.
+La versión previa permanece recuperable en el historial de Git. Sus intuiciones no se conservan aquí como conclusiones paralelas incompatibles. Los desarrollos antiguos de 18:25–39 y las comparaciones generales que repitan esas fórmulas deben releerse a la luz del expediente nuevo, sin considerar investigados o redactados los capítulos futuros.
 
-Este contraste conecta con la trayectoria previa del relato:
+## ¿Qué flujo sigue vigente?
 
-- Querit: Dios provee agua y alimento.
-- Sarepta: Dios sostiene harina y aceite.
-- El hijo de la viuda: Dios devuelve vida.
-- 1 Reyes 18:1: Dios anuncia que enviará lluvia.
-
-Frente a esa secuencia, la elección del fuego por parte de Elías parece coherente con una imagen de Dios más centrada en confrontación y demostración de fuerza que en restauración.
-
-## El agua sobre el altar
-
-Elías ordenará más adelante empapar el sacrificio y el altar con agua.
-
-No puede afirmarse que estuviera usando «la última agua potable» disponible; el texto no lo dice y la zona del Carmelo podía disponer de fuentes o agua cercana. Por tanto, no debe construirse un argumento sobre desperdicio literal de la última reserva.
-
-Sin embargo, literariamente el contraste sigue siendo significativo:
-
-> en una tierra desesperada por agua, el agua termina funcionando como parte de una demostración de fuego, mientras Dios ya había anunciado que su intención era devolver la lluvia.
-
-Esto permite formular una tensión simbólica entre demostrar poder y restaurar vida.
-
-## Elías después de Sarepta
-
-La experiencia de Sarepta pudo haber enseñado a Elías varias cosas:
-
-- que personas del territorio «enemigo» podían mostrar fe y generosidad;
-- que los juicios indiscriminados alcanzaban también a personas vulnerables;
-- que Dios sostenía y restauraba vida;
-- que Elías mismo dependía de otros.
-
-Al reencontrarse con Acab, Elías confronta una infidelidad real mientras cumple la orden de presentarse recibida en 18:1. Esa confrontación no demuestra, por sí sola, una regresión después de Sarepta. La convocatoria de 18:19–20 debe distinguirse de la propuesta posterior de 18:21–24.
-
-No puede inferirse del enfrentamiento, sin argumentos adicionales, cuánto integró interiormente aquellas experiencias. La formación de Elías y su comprensión del método quedan abiertas; no narrar fracaso de aprendizaje como hecho ni confundir denuncia verdadera con dureza injustificada.
-
-## «Por tu palabra hice todas estas cosas»
-
-1 Reyes 18:36 constituye una contraevidencia importante.
-
-Elías afirma que actuó según la palabra de Dios. Debe distinguirse:
-
-- **Texto:** Elías dice que ha hecho estas cosas por la palabra de Dios.
-- **No afirmado explícitamente por el narrador:** que Dios le haya dado previamente cada detalle del desafío del fuego.
-
-Por tanto, permanecen abiertas varias posibilidades:
-
-1. Elías recibió instrucciones divinas no narradas.
-2. Elías interpretó su propia iniciativa como coherente con la voluntad de Dios.
-3. Existe una combinación de mandato divino general e iniciativa profética específica.
-
-No debe afirmarse todavía cuál de estas opciones es correcta.
-
-## «Sólo yo he quedado»
-
-Elías dice que él solo ha quedado como profeta de YHWH, aunque acaba de enterarse de que Abdías escondió cien profetas.
-
-Puede significar que era el único profeta de YHWH públicamente presente en ese enfrentamiento. Sin embargo, la frase reaparece en 1 Reyes 19, donde Dios terminará ampliando/corrigiendo su percepción al mencionar a siete mil que no doblaron rodilla ante Baal.
-
-Hipótesis a seguir:
-
-> Elías puede tender a percibir la realidad en categorías absolutas: «ellos todos / yo solo».
-
-Esa percepción resulta especialmente relevante cuando alguien se considera autorizado para ejecutar juicio sobre un grupo.
-
-## Abdías, los cien profetas y los grupos de cincuenta
-
-No hay evidencia suficiente para afirmar que los números 100 y 50 tengan un simbolismo específico en 1 Reyes 18.
-
-La lectura más sencilla es práctica:
-
-- Abdías protege cien profetas.
-- Los divide en dos grupos de cincuenta.
-- Separarlos reduce el riesgo de perderlos a todos si uno de los escondites es descubierto.
-
-El número cincuenta reaparecerá en 2 Reyes 1 en unidades militares, pero por ahora no debe construirse una tipología sobre esa coincidencia.
-
-## Baal, lluvia y la aparente contradicción del desafío
-
-Si Baal era presentado como divinidad de tormenta, lluvia y fertilidad, el terreno natural del desafío habría sido precisamente la lluvia y la restauración de la tierra.
-
-Esto refuerza la impresión de que Elías no está preguntando principalmente:
-
-> «¿Quién da vida?»
-
-sino:
-
-> «¿Quién es más poderoso?»
-
-La diferencia importa para la investigación del carácter de Dios.
-
-## Comparación cristocéntrica
-
-Jesús no revela al Padre organizando una competencia para demostrar supremacía de poder.
-
-En los Evangelios, el poder de Jesús se orienta principalmente a:
-
-- sanar;
-- alimentar;
-- liberar;
-- restaurar;
-- perdonar;
-- devolver vida;
-- amar al enemigo;
-- entregar la propia vida.
-
-Esto permite formular una hipótesis central:
-
-> Elías puede acertar respecto de quién es Dios y al mismo tiempo equivocarse en qué aspecto de Dios considera decisivo para revelarlo. La omnipotencia es verdadera, pero Jesús muestra que el centro del carácter divino no es simplemente poder, sino amor.
-
-## Hipótesis acumulativa
-
-La secuencia hasta aquí puede leerse así:
-
-1. Elías ora para que no llueva y anuncia la sequía «según mi palabra».
-2. Dios preserva vida dentro de la sequía.
-3. Elías experimenta personalmente sus consecuencias.
-4. Dios lo lleva a convivir con una viuda extranjera afectada por la crisis.
-5. Elías pasa de pedir juicio a suplicar vida para el hijo de la viuda.
-6. Dios anuncia que devolverá la lluvia.
-7. Elías confronta la responsabilidad de Acab y convoca al pueblo (18:17–20); después formula la propuesta de 18:21–24, que debe investigarse en su unidad propia sin dar por demostrada una regresión interior.
-
-Hipótesis interpretativa:
-
-> Dios podría estar educando progresivamente a Elías respecto de su propio carácter, mientras Elías todavía vuelve una y otra vez a categorías de juicio, confrontación y fuerza.
-
-## Nivel de confianza
-
-- **Sólido:** Dios anuncia explícitamente que devolverá la lluvia antes del Carmelo.
-- **Sólido:** El relato no registra una orden previa explícita de Dios para escoger fuego como prueba.
-- **Sólido:** Elías propone el criterio del fuego.
-- **Sólido:** Elías afirma posteriormente que ha actuado según la palabra de Dios.
-- **Sólido:** Abdías había protegido cien profetas de YHWH, por lo que Elías no era literalmente el único fiel disponible en la historia.
-- **Probable:** la prueba del fuego refleja la comprensión de Elías de que la divinidad debe demostrarse mediante poder irresistible.
-- **Probable:** el contraste fuego/agua tiene valor narrativo y teológico dentro de una historia dominada por sequía, provisión y restauración de vida.
-- **Abierto:** cuánto ha integrado Elías las experiencias de Sarepta; su confrontación con Acab no permite diagnosticar por sí sola un aprendizaje fallido.
-- **Posible:** la tensión Elías–Jesús puede formularse como supremacía de poder frente a revelación del poder mediante amor.
-- **Abierto:** hasta qué punto el diseño concreto del Carmelo fue ordenado directamente por Dios.
-
-## Próximo paso
-
-**Actualización de flujo — 2026-10-15:** el capítulo 7 se limita a 18:17–20 y queda pendiente de revisión del autor. No iniciar el capítulo 8 ni seguir la antigua agenda de este expediente como autorización de avance. La lista siguiente se conserva como agenda investigativa anterior para capítulos futuros.
-
-Estudiar 1 Reyes 18:25–39:
-
-- las burlas de Elías a los profetas de Baal;
-- las prácticas de automutilación;
-- la reconstrucción del altar;
-- la oración de Elías;
-- el fuego que efectivamente desciende;
-- y, sobre todo, por qué Dios responde si el método pudo haber surgido de Elías.
-
-Después estudiar por separado 1 Reyes 18:40 y la matanza de los profetas de Baal.
+El capítulo 7 está aprobado y editorialmente cerrado. El capítulo 8 cuenta ahora con investigación específica cerrada y borrador en drafts del libro, pendiente de revisión/aprobación de Nicolás. No está incorporado a manuscript. No se activa el 9. El estado editorial canónico está en STATUS.md del repositorio del libro.
 
