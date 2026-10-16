@@ -82,3 +82,14 @@ No es necesario guardar cada conversación ni cada observación menor.
 - la contemplación de Jesús no se entiende sólo como adquisición de información, sino como una práctica orientada a conocer su carácter y permitir que esa visión transforme al creyente.
 
 **Límite epistemológico:** Lucas 1:1-4 y Marcos 1:1 apoyan directamente la centralidad de Jesús y el valor de investigar cuidadosamente su historia. La afirmación de que contemplar a Jesús transforma al creyente y que los Evangelios sirven para releer el Antiguo Testamento pertenece a una síntesis bíblica más amplia del proyecto; no debe atribuirse exclusivamente a estos versículos.
+## D-013 — En los libros, el filtro son los cuatro Evangelios
+
+**Decisión:** en los libros de Nicolás Bertoa, el filtro es la vida de Jesús tal como aparece en los cuatro Evangelios: su persona, sus obras y sus palabras. Pablo, Pedro, las cartas de Juan, el Apocalipsis y el Antiguo Testamento no son el filtro. Se leen a través de él.
+
+**Implicación:** ninguna lectura de otro texto puede presentar como retrato de Dios algo que Jesús reprendió, detuvo o se negó a hacer. Ver [`FILTRO-PARA-ESCRIBIR.md`](FILTRO-PARA-ESCRIBIR.md).
+
+## D-014 — Cómo ve el autor a Jesús al escribir
+
+**Decisión:** al escribir, el autor mira a Jesús como **médico, restaurador, protector, compañero y amigo**, no como juez ni como alguien que castiga. Es su convicción hoy, dicha como tal en sus libros («me parece»), con la disposición de corregirla.
+
+**Límite:** esta postura autoral no cierra la investigación de D-008. Si la evidencia de los Evangelios entra en tensión con esa mirada, se nombra la tensión en el libro y se revisa la mirada antes que forzar la evidencia.
