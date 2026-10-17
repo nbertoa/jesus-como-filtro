@@ -40,6 +40,16 @@ Líneas necesarias:
 - ¿El mandato de amar enemigos describe también al Padre?
 - ¿Existen excepciones significativas en la vida o enseñanzas de Jesús?
 
+### Dones sustentadores y bondad común
+
+- ¿Qué implica que Jesús presente al Padre haciendo salir el sol sobre malos y buenos y haciendo llover sobre justos e injustos (Mt 5:44–45)?
+- ¿Hasta dónde ese patrón permite afirmar que Dios sostiene también a quienes lo rechazan?
+- ¿Cómo dialoga esto con relatos donde se retiran lluvia, alimento, fertilidad o protección como juicio?
+- ¿Qué diferencia hay entre retirada directa de un don, consecuencia natural, permiso y lenguaje de soberanía?
+- ¿Qué aporta la sanación de la fuente común de Jericó en 2 Reyes 2:19–22, donde el beneficio alcanza a la comunidad sin que se exija fe o arrepentimiento individual previo?
+- ¿El contraste entre la sequía de Elías y la sanación de las aguas por Eliseo refleja una intención teológica del narrador o sólo una coincidencia narrativa significativa?
+- ¿Qué otros episodios muestran a Dios dando bienes básicos de vida a justos e injustos?
+
 ### Libertad humana
 
 - ¿Hasta dónde permite Jesús decisiones contrarias a su voluntad?
