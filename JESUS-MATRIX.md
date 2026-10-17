@@ -7,6 +7,7 @@ No es un filtro terminado, una teología previa ni una lista que deba completars
 | Tema | Evidencia inicial en Jesús | Observación provisional | Confianza / estado |
 |---|---|---|---|
 | Enemigos | Mt 5:43–48; Lc 6:27–36 | Jesús ordena amar, hacer bien y orar por los enemigos; vincula esta conducta con el Padre. | Investigar conjunto completo |
+| Dones sustentadores / bondad común | Mt 5:44–45 | Jesús presenta al Padre haciendo salir el sol sobre malos y buenos y haciendo llover sobre justos e injustos. Los bienes básicos que sostienen la vida no aparecen restringidos sólo a quienes ya son justos. La sanación de la fuente común de Jericó en 2 R 2:19–22 ofrece una convergencia significativa a investigar. | Evidencia fuerte en Jesús; comparación con Eliseo en desarrollo |
 | Violencia | Mt 26:51–54; Lc 22:49–51; Jn 18:10–11 | Jesús detiene la violencia de Pedro y, según Lucas, sana al herido. | Investigar contraevidencia |
 | Rechazo | Lc 9:51–56 | Jesús reprende la propuesta de responder al rechazo samaritano con fuego del cielo. | Investigar alcance |
 | Perdón | Lc 23:33–34 | Jesús responde a la crucifixión pidiendo perdón para sus ejecutores; debe considerarse la cuestión textual del versículo. | Provisional |
