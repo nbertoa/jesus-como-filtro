@@ -6,6 +6,14 @@
 
 Este documento reúne tensiones reales sin partir de la conclusión de que Elías estaba equivocado en todo.
 
+## Referencia principal derivada de esta investigación
+
+La investigación acumulada sobre Elías dio origen al libro **Elías a la luz de Jesús**. Su repositorio debe consultarse como referencia complementaria para recuperar la síntesis narrativa, las intuiciones autorales y el desarrollo completo que surgió de esta etapa de investigación:
+
+- Repositorio: https://github.com/nbertoa/elias-a-la-luz-de-jesus
+
+Ese repositorio contiene el libro ya publicado y conserva la elaboración narrativa-contemplativa del estudio de Elías. La investigación teológica viva, las revisiones y las nuevas tensiones continúan registrándose principalmente en `jesus-como-filtro`; el libro no sustituye esta memoria investigativa, pero sí es una fuente importante para consultar cómo quedaron integrados los hallazgos sobre Elías.
+
 ## Contrastes principales
 
 ### Amor al enemigo
