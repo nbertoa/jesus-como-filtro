@@ -52,19 +52,19 @@ Líneas necesarias:
 
 ### Guerra de Moab, agua recibida y misericordia no extendida (2 Reyes 3)
 
-Investigar después de leer **2 Reyes 3:21–27**, sin presuponer el resultado:
+**Ya se leyó 2 Reyes 3 completo** y se consolidó [cronología y síntesis del episodio](episodes/2-reyes-3-1-27-guerra-contra-mesa-cronologia-sintesis.md). Mantener estas preguntas abiertas sin presuponer el resultado:
 
 - ¿Por qué Joram atribuye a YHWH una posible muerte de los ejércitos aunque el texto presenta su propia iniciativa en la campaña? ¿Qué enseña Jesús sobre atribuir calamidades y culpas directamente a Dios?
 - ¿Qué revela el agua entregada a las tropas y animales, incluidos beneficiarios moralmente problemáticos? ¿Se trata de misericordia que debían aprender a extender a Moab, o sólo de provisión divina en el marco de una victoria militar?
 - ¿Cómo se relaciona la extracción de tributo moabita con Mateo 10:8, Lucas 6:27–36 y Mateo 18:23–35? ¿Qué límites tiene trasladar enseñanzas sobre relaciones personales a decisiones entre reinos?
 - ¿2 Reyes 3:19 contiene órdenes o predicciones de destrucción de árboles, fuentes y campos? Comparar sintaxis hebrea y Deuteronomio 20:19–20. No dar por resuelto por adelantado que fue sólo predicción.
-- ¿Por qué se atribuye a YHWH la entrega de Moab (3:18) y cuál es la función del agua en la batalla (3:21ss)?
+- ¿Cómo interpretar que 3:18 atribuya la entrega de Moab a YHWH, mientras la misma agua de provisión induce el error de los moabitas al parecer sangre y la coalición después destruye manantiales?
 - ¿Qué significa la «gran ira contra Israel» después del sacrificio del hijo de Mesa (3:27)? ¿De quién es la ira? No inferir el agente antes de estudiar la gramática y el contexto.
 - ¿La bondad divina que beneficia a personas cuestionables y a enemigos exige una ética de reciprocidad misericordiosa? Examinar **también** el final judicial de la parábola del siervo perdonado (Mt 18), no solamente su mandato de misericordia.
 - ¿Qué indican 1 Samuel 10:5–6; 16:23; 1 Crónicas 25:1–3 respecto al músico de Eliseo en 3:15? ¿Por qué le resultó necesario? El texto no lo explica.
 - ¿Qué comunica el recuerdo de Eliseo como servidor que derramaba agua sobre las manos de Elías (3:11), y cómo ilumina Juan 13 el uso de autoridad al servicio de otros?
 
-Estudio parcial: [2 Reyes 3:1–20](episodes/2-reyes-3-1-20-musico-agua-moab-guerra.md).
+Estudios: [primera parte 3:1–20](episodes/2-reyes-3-1-20-musico-agua-moab-guerra.md), [desenlace 3:21–27](episodes/2-reyes-3-21-27-devastacion-mesa-sacrificio-ira.md), [cronología y síntesis 3:1–27](episodes/2-reyes-3-1-27-guerra-contra-mesa-cronologia-sintesis.md).
 
 ### Libertad humana
 
