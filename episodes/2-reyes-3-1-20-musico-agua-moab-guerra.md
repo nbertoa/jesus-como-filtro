@@ -1,7 +1,7 @@
 # 2 Reyes 3:1–20 — Músico, servicio, agua gratuita, Moab y guerra
 
 ## Estado y pregunta
-Investigación parcial del capítulo: se han estudiado vv. 1–20; **falta leer vv. 21–27 antes de sintetizar el episodio completo**. Pregunta: ¿qué revela el contraste entre la interpretación fatalista de Joram, la provisión divina de agua y la devastación militar anunciada? Jesús es criterio de comparación; no anticipar la respuesta.
+**Bloque 1 del estudio del capítulo:** vv. 1–20. El desenlace (vv. 21–27) ya fue investigado por separado; la cronología y la síntesis acumulativa del episodio completo están en [2 Reyes 3:1–27 — Guerra contra Mesa](2-reyes-3-1-27-guerra-contra-mesa-cronologia-sintesis.md). Pregunta: ¿qué revela el contraste entre la interpretación fatalista de Joram, la provisión divina de agua y la devastación militar anunciada? Jesús es criterio de comparación; no anticipar la respuesta.
 
 ## Texto: observaciones sólidas
 - Joram/Israel reclama la sujeción de Moab, reino tributario. El texto menciona entrega de ganado y lana (3:4); Mesa se rebela (3:5) y Joram organiza campaña con Josafat y Edom (3:6–9). **No se registra una orden divina previa de iniciar la expedición**.
@@ -43,12 +43,12 @@ Comparaciones con Jesús:
 - «Recibir misericordia y reproducir misericordia son dos cosas distintas».
 - «Israel recibió agua de gracia, pero ¿cómo trató luego el agua de Moab?»
 - «La pertenencia al pueblo de Dios no demuestra automáticamente la justicia moral de su tributo o su campaña».
-- **Pregunta principal abierta**: «¿La provisión divina era simplemente ayuda dentro de la guerra, o puede ser leída desde Jesús como un testimonio de misericordia que los reyes debían extender a Moab?» No resolver sin leer 3:21–27.
+- **Pregunta principal abierta**: «¿La provisión divina era simplemente ayuda dentro de la guerra, o puede ser leída desde Jesús como un testimonio de misericordia que los reyes debían extender a Moab?» No resolver automáticamente: 3:21–27 ya fue estudiado y mantiene la tensión abierta (ver síntesis integral).
 
 ## Confianza
 **Sólido:** iniciativa humana de expedición; exacción tributaria; interpretación fatalista de Joram no respaldada por orden divina previa; regalo de agua a hombres y animales; oráculo incluye promesa de victoria y descripción de devastación; servidumbre de Eliseo; músico y mano de YHWH.
 **Probable:** referencia «derramaba agua» funciona como reconocimiento del estrecho servicio a Elías y no desprecio.
 **Posible:** música prepara/serena a Eliseo; el agua constituye pedagogía sobre misericordia; predicción sin mandato de devastación; paralelos cristológicos con Mt5, Lc6, Mt18.
-**Abierto:** instrucción vs predicción de 3:19; valoración de la devastación; sentido del agua en la batalla (3:21ss), desenlace del sacrificio de Mesa y «gran ira contra Israel» (3:27); si hay un patrón estable frente a enemigos.
+**Abierto:** instrucción vs predicción de 3:19; valoración de la devastación; implicaciones de la aparición rojiza del agua que los moabitas confunden con sangre (3:21–24), significado del sacrificio del heredero de Mesa y fuente de la «gran ira contra Israel» (3:27); si hay un patrón estable frente a enemigos.
 
-No actualizar JESUS-MATRIX.md por esta hipótesis sin más investigación de episodios de Jesús y contraevidencia.
+No actualizar JESUS-MATRIX.md por esta hipótesis sin más investigación de episodios de Jesús y contraevidencia. La síntesis posterior del capítulo completo se encuentra en [2 Reyes 3:1–27](2-reyes-3-1-27-guerra-contra-mesa-cronologia-sintesis.md).
