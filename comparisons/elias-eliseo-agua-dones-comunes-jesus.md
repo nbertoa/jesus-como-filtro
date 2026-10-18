@@ -232,6 +232,30 @@ Contraevidencia necesaria:
 - episodios de guerra y juicio;
 - cualquier uso coercitivo o destructivo del poder.
 
+## 12. Moab: agua para una expedición bélica (2 Reyes 3:1–20)
+
+**Estado:** estudio parcial, faltan 3:21–27; ver [episodio detallado](../episodes/2-reyes-3-1-20-musico-agua-moab-guerra.md).
+
+Secuencia textual: Joram emprende una campaña para restaurar el tributo de Moab sin que el narrador registre un mandato divino previo. Los tres ejércitos y sus animales se quedan sin agua. Joram interpreta su crisis como un propósito divino de entregarlos a la muerte (3:10, 13), sin que el narrador ratifique esa atribución. Tras la consulta a Eliseo, YHWH promete y proporciona agua para la tropa y sus animales (3:16–20): **la primera acción concreta de Dios ante el temor a la muerte es sostener la vida**. Aunque Eliseo considera a Josafat más que a Joram, la provisión beneficia también a Joram y al conjunto del campamento.
+
+Esta escena amplía el patrón observado en Jericó: bienes sustentadores otorgados comunitariamente sin prueba individual de merecimiento; Mateo 5:44–45 ofrece un criterio explícito de Jesús sobre la lluvia y el sol para buenos/malos. Sin embargo, no idealizar el episodio: **el mismo oráculo anuncia victoria sobre Moab (3:18)** y describe arrasar ciudades, árboles, fuentes y campos (3:19). La provisión es compatible dentro del relato con una guerra y no debe aislarse de ese marco.
+
+**Intuición cristocéntrica del usuario:** Dios les dio agua gratuitamente, incluso a quienes iniciaron una campaña por tributos y pensaban que Dios quería matarlos. ¿Debían responder con misericordia hacia Moab y dejar de someterlo, en lugar de devastar sus propios recursos de vida? **La pregunta es moralmente fecunda, pero no es una motivación expresamente atribuida por el narrador a YHWH.**
+
+Paralelos con Jesús que merecen estudio, sin alegar alusiones literarias directas:
+- **Mateo 18:23–35:** quien recibió remisión de una deuda enorme debe tener misericordia de un deudor menor. **Contraevidencia obligatoria:** la parábola termina con juicio severo.
+- **Mateo 10:8:** recibir y dar gratuitamente, referido específicamente al ministerio de los enviados, no a legislación fiscal de reinos.
+- **Lucas 6:27–36:** generosidad hacia enemigos, préstamos sin cálculo de reciprocidad y benevolencia del Padre con ingratos/malvados. La expresión griega de 6:35 presenta discusión traductológica; no absolutizar una sola versión.
+- **Juan 4:** Jesús cruza una frontera étnico-religiosa alrededor de agua y promete agua viva (convergencia temática).
+- **Juan 13:** el Maestro lava pies de discípulos. Conexión contrastiva con 2 Re 3:11: Eliseo, futuro profeta ante reyes, había derramado agua sobre las manos de Elías como servicio al maestro. El texto no expresa desprecio por Eliseo.
+- **1 Sam 16:23; 10:5–6; 1 Cr 25:1–3:** música, estado de Saúl y profecía para iluminar por qué Eliseo pide un músico en 2 Re 3:15, sin afirmar que necesitara serenarse: el motivo no aparece en el texto.
+
+**Problema filológico y ético abierto:** ¿3:19 contiene futuros predictivos (Eliseo anuncia lo que los hombres harán) o instrucciones militares? Existen defensores de ambas lecturas; la observación de NET sobre la construcción hebrea es contraevidencia frente a una lectura puramente predictiva. **Deut 20:19–20** prohíbe talar árboles frutales durante el sitio, pero su alcance exacto frente a 2 Re 3 es debatido. No resolver a priori el conflicto con una hermenéutica preferida.
+
+El tributo de Moab era la extracción de riqueza exigida por un poder imperial regional. La Estela de Mesa presenta la respuesta moabita y también propaganda bélica violenta; no justificar automáticamente a Israel por su identidad ni romantizar Moab.
+
+**Síntesis provisional:** «Joram creía que Dios quería quitarles la vida; recibió agua que sostenía la vida». «Recibir misericordia y practicarla son asuntos distintos». «¿Cómo trataron los reyes el agua de Moab después de recibir la de YHWH?». La contestación exige leer 3:21–27 y mantener la tensión entre provisión, victoria, devastación y desenlace de la guerra.
+
 ## Grados de certeza
 
 ### Sólido
