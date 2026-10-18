@@ -295,3 +295,18 @@ El tributo de Moab era la extracción de riqueza exigida por un poder imperial r
 - «Eliseo sana el agua de la que estaba saliendo la muerte; Jesús viene a sanar al ser humano desde la fuente.»
 - «El primer milagro propio de Eliseo no muestra cuánto poder heredó de Elías; muestra para qué empieza a utilizarlo.»
 - «El poder de Dios se revela también en que usa su poder para sanar una fuente común de la que viven justos e injustos.»
+
+
+## 13. Moab y el sacrificio como intento de obtener un favor
+
+En 2 Reyes 3:27, el rey Mesa, acorralado, ofrece en holocausto a su primogénito y heredero sobre la muralla. **Texto:** ocurre el sacrificio; a continuación «gran ira contra Israel», sin identificar expresamente el sujeto de la ira, y la coalición se retira. **Interpretación histórica probable, no explícita:** Mesa busca ayuda sobrenatural mediante un sacrificio extremo, posiblemente dirigido a Quemós, su dios nacional; no conocemos su razonamiento íntimo ni podemos atribuir al texto que Quemós efectivamente intervenga.
+
+Intuición del usuario: hay una contraposición entre una imagen transaccional de la divinidad («debo ofrecer lo más valioso, incluso a mi hijo, para obtener un beneficio») y la bondad gratuita del Dios que Jesús revela («Dios da primero, incluso a ingratos y adversarios, sin necesidad de que se compre su amor»).
+
+**Evidencias textuales en diálogo:** Is 55:1 invita a recibir agua/comida sin dinero ni precio; Sal 50:9–13 rechaza entender a Dios como necesitado de carne y sangre de sacrificios; Os 6:6, retomado por Jesús en Mt 9:13 y 12:7, prioriza misericordia/conocimiento de Dios frente al ritual sacrificial; Lc 6:35–36 revela a un Padre bondadoso con ingratos y malvados; Mt 10:8 presenta dar gratuitamente lo recibido gratuitamente. La prohibición israelita de sacrificar niños (Dt 12:31) importa, pero no resuelve por sí sola todos los sacrificios bíblicos.
+
+**Matiz necesario:** gratuidad no significa que Dios nunca llame a arrepentimiento, obediencia, confianza o respuesta amorosa, ni que la teología bíblica del sacrificio y la cruz esté agotada. Diferenciar **la bondad que antecede a la respuesta** de **una transacción que busca comprar benevolencia divina**. No equiparar sin argumentos el sacrificio forzado de un hijo por un rey con la entrega voluntaria de Jesús; estudiar Jn 10:17–18 y la pasión.
+
+El contraste de la narración de 2 Re 3 debe mantener sus dificultades: YHWH anuncia victoria (3:18), tropas humanas devastan (3:25), el rey sacrifica hijo (3:27), hay «gran ira» de fuente no identificada. No construir una fórmula según la cual Dios solo dio agua y no tuvo relación narrativa con la guerra.
+
+**Pregunta abierta:** «¿Qué imagen de Dios hace creer que es necesario sacrificar a alguien para obtener ayuda y qué revela Jesús respecto a esa imagen?» Referencia complementaria: [estudio de la guerra](../episodes/2-reyes-3-1-20-musico-agua-moab-guerra.md).
