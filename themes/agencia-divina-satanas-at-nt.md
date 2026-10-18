@@ -192,3 +192,20 @@ Esto no permite descartar automáticamente el texto anterior, pero sí obliga a 
 - Catalogar textos del AT donde aparece *satan* y distinguir adversario humano de adversario celestial.
 - Catalogar enseñanzas de Jesús sobre Satanás, enfermedad, muerte, destrucción y acción del Padre.
 - Aplicar después esos criterios a episodios difíciles del AT, sin decidir de antemano la respuesta.
+
+
+## 12. Agencia variable y Jesús frente a las legiones de ángeles — conexión con 2 Reyes 3
+
+Pregunta formulada en el estudio de Moab: «¿Por qué a veces los relatos atribuyen muertes a ángeles de YHWH o a agentes espirituales y otras veces la destrucción la ejecutan ejércitos humanos? ¿Por qué una doble posibilidad?».
+
+**Sólido:** la diversidad textual existe. 2 Reyes 19:35 atribuye al ángel de YHWH la muerte de numerosos soldados asirios. 2 Samuel 24 / 1 Crónicas 21 describen una peste con ángel; sus respectivos comienzos atribuyen de manera distinta la incitación al censo: YHWH / Satanás. En 2 Reyes 3:21–27 quienes matan y destruyen manantiales, campos y árboles son ejércitos humanos, **aunque 3:18 también afirma que YHWH entregará Moab a los reyes**. No se registra un ángel ejecutando esta campaña. **No se puede afirmar que en este pasaje Dios simplemente «permite» todo ni, a la inversa, que ordene indiscutiblemente cada destrucción: 3:19 exige examen filológico**.
+
+**Cautela necesaria:** la Biblia menciona ángeles vinculados con Satanás en otros textos, pero en estos episodios no se demuestra que un ángel llamado «de YHWH» fuera en realidad uno de Satanás. No convertir las etiquetas de los narradores ni la acción adversaria en la explicación universal de muertes.
+
+**Criterio directo de Jesús:** Mateo 26:52–53. Al detener la espada de Pedro, Jesús declara que podría pedir al Padre más de doce legiones de ángeles y no utiliza esa posibilidad para defenderse mediante violencia. El dato es muy relevante: **capacidad de movilizar fuerza angelical no equivale a decisión de hacerlo ante una agresión contra sí mismo**. Estudiar también Lc 9:51–56 y la pasión. No inferir de ello que todos los relatos de destrucción angélica sean falsos o de Satanás.
+
+**Contraevidencia dentro del NT:** Hechos 12:23 relata que un ángel del Señor hiere a Herodes y muere. Por lo tanto, no es sostenible la fórmula «en el NT ya nunca se atribuye muerte a un ángel de Dios». Debe estudiarse el texto distinguiendo agencia, función narrativa, historicidad y compatibilidad con Jesús.
+
+**Preguntas abiertas:** ¿por qué aparecen agentes distintos? ¿Se trata de diferentes circunstancias o de diferentes teologías narrativas? ¿Cómo saber si Dios causa directamente, ordena, permite o es asociado a la acción mediante lenguaje de soberanía? ¿Qué revela la negativa de Jesús a pedir ángeles, frente a los relatos donde un ángel sí destruye?
+
+Referencias: 2 Re 19:35; 2 Sam 24; 1 Cr 21; 2 Re 3:18–27; Mt 26:52–53; Lc 9:51–56; Hch 12:23.
