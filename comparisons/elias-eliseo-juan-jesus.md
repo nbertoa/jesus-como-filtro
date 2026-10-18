@@ -169,6 +169,20 @@ Esto abre una pregunta importante:
 
 **Cuando Jesús habla de fuego, ¿debemos interpretarlo a partir de las escenas antiguas de destrucción, o a partir de la manera en que Jesús mismo usa el poder, confronta el mal y restaura a las personas?**
 
+## Hallazgo acumulativo posterior: agua, poder y la obligación de extender misericordia (2 Reyes 3)
+
+El estudio del capítulo 3 aporta un matiz a la comparación, no una conclusión global. Tras sanar la fuente comunitaria de Jericó (2 Re 2:19–22), Eliseo es consultado cuando una coalición bélica contra Moab carece de agua. Joram, promotor de la expedición para restablecer el tributo, interpreta el riesgo de morir como intención de YHWH, pero la primera intervención inequívoca de Dios es proveer agua también a Joram, las tropas y animales (3:10–20). Esto **no implica que la narración condene expresamente la campaña**: la palabra de Eliseo promete asimismo victoria (3:18), y el v. 19 anuncia devastación.
+
+**Pregunta del usuario desde Jesús:** si Dios dio gratuitamente un bien indispensable a quienes erraron y a quienes no eran todos justos, ¿no debían los reyes extender misericordia a los moabitas en lugar de someterlos mediante tributo y arrasar sus fuentes? Esa intención pedagógica de Dios es **hipótesis interpretativa**, no explicación explícita de Reyes.
+
+Mateo 5:44–45 (lluvia y sol incluso a injustos), Mateo 18:23–35 (deudor perdonado obligado a perdonar, con final judicial difícil), Mateo 10:8 (dar gratis lo recibido gratis) y Lucas 6:27–36 (bien al enemigo y generosidad) aportan el diálogo cristocéntrico. No confundir relaciones entre particulares con obligaciones fiscales entre reinos. El contraste entre **agua dada gratuitamente** y **fuentes enemigas destruidas** es especialmente agudo.
+
+**Contraevidencia:** El hebreo de 2 Re 3:19 permite debatir mandato vs anuncio; Deuteronomio 20:19–20 ofrece tensión sobre árboles frutales, pero no la resuelve automáticamente; el oráculo de victoria se atribuye a YHWH. Se debe examinar 3:21–27, particularmente el sacrificio del heredero de Mesa y la expresión «gran ira contra Israel». La hipótesis de un Eliseo uniformemente restaurador ya fue tensionada en 2 Re 2:23–25 (maldición y osas). La comparación debe seguir siendo corregible.
+
+Otros puntos de contexto: «derramaba agua sobre las manos de Elías» (2 Re 3:11) indica servicio, no desprecio demostrado; su comparación con Juan 13 es por humildad/servicio, no por un mismo rito. La petición de músico (3:15) tiene paralelos con Saúl y David (1 Sam 16:23), grupos proféticos musicales (1 Sam 10:5–6; 1 Cr 25), sin que se explique el motivo psicológico exacto de Eliseo.
+
+Estudio base: [2 Reyes 3:1–20](../episodes/2-reyes-3-1-20-musico-agua-moab-guerra.md). Conexión anterior: [Agua y dones sustentadores](elias-eliseo-agua-dones-comunes-jesus.md).
+
 ## Nivel de confianza actual
 
 - **Sólido:** los Evangelios identifican funcionalmente a Juan el Bautista con Elías.
