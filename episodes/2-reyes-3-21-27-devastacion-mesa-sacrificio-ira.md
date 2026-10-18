@@ -1,5 +1,7 @@
 # 2 Reyes 3:21–27 — Devastación de Moab, sacrificio del heredero y gran ira
 
+[Cronología y síntesis del capítulo completo](2-reyes-3-1-27-guerra-contra-mesa-cronologia-sintesis.md).
+
 ## Pregunta principal
 
 ¿Cómo interpretar desde Jesús una guerra donde quienes recibieron agua de Dios destruyen manantiales enemigos, el rey de Moab sacrifica a su hijo y el relato concluye con «gran ira contra Israel» sin identificar el sujeto?
