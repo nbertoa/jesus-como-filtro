@@ -52,3 +52,20 @@ Traducción Hart en el PDF proporcionado por usuario: Juan 6:9 «cinco hogazas d
 - ¿Cómo evitar convertir el relato en fórmula automática de prosperidad o de multiplicación material cada vez que damos algo?
 
 **Siguiente episodio en orden narrativo:** 2 Reyes 5:1–27, Naamán y Giezi, central para el alcance de la misericordia a extranjeros y el peligro de lucrar con ella. Posible división en dos etapas: 5:1–19 (Naamán), 5:20–27 (Giezi), por su importancia.
+
+
+## Hallazgo posterior del usuario — ¿dependió de la fe de quienes comieron?
+
+Observación del usuario: en la alimentación de cien por Eliseo y en la alimentación de miles por Jesús **no se exige fe individual de los receptores antes de recibir el pan**. Esta distinción importa frente a afirmaciones generales que condicionan todo don divino a la fe demostrada por cada beneficiario.
+
+**2 Re 4:42–44:** texto sobre panes recibidos, mandato profético, objeción del servidor, reparto y sobrantes. No consta examen de fe, confesión religiosa, arrepentimiento ni petición individual de los cien. **El silencio no permite demostrar que ninguno tuviera fe; sí demuestra que la narración no presenta tal fe como requisito.**
+
+**Juan 6:1–15 y 6:26–36, 60–66:** multitud recibe pan antes de comprender plenamente quién es Jesús o el significado del signo; Jesús reprende luego a quienes lo buscan por haber comido y quedar satisfechos, y afirma que algunos no creen; más adelante numerosos discípulos lo abandonan. **No afirmar que todas las personas de 6:26 o 6:66 fueran necesariamente los mismos individuos presentes en 6:11 sin precisión narrativa**, aunque la continuidad del discurso indica que el beneficio no requirió confesión de fe plenamente formada.
+
+**Marcos 6:30–44 y 6:52:** después de que participaran en la distribución, incluso los propios discípulos son descritos como incapaces de comprender el milagro de los panes, con corazones endurecidos. Este es un contrapeso particularmente relevante frente a «el milagro sucedió gracias a la fe suficiente de todos los presentes». La reacción del servidor de Eliseo expresa duda por cantidad, pero reparte tras anuncio de YHWH; distinguir *obediencia de quien distribuye* de *fe de todos los beneficiarios*.
+
+**Conexión en Jesús:** Mateo 5:44–45 y Lucas 6:35–36 presentan al Padre proporcionando bienes sustentadores a justos e injustos, e incluso siendo bondadoso con ingratos y malvados. Leer el pan sin requisito narrativo de fe como convergencia con esta descripción, sin concluir que la fe nunca desempeña ningún papel en otras sanaciones o relaciones con Jesús.
+
+**Alcance:** evidencia **sólida** sobre ausencia de requisito de fe de beneficiarios en estos relatos; **probable** como ejemplo narrativo de gratuidad divina que precede al reconocimiento; **abierto** cómo se articula con textos donde Jesús menciona específicamente la fe de alguien (p. ej., Mt 9:22, Mc 5:34, Mt 13:58). Tampoco demuestra promesa de multiplicación material universal.
+
+Referencias: https://www.biblegateway.com/passage/?search=2%20Kings%204%3A42-44&version=NIV ; https://www.biblegateway.com/passage/?search=John%206%3A1-15%2C26-36%2C60-66&version=NIV ; https://biblehub.com/mark/6-52.htm.
