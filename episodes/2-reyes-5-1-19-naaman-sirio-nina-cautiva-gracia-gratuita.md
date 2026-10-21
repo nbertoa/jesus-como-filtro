@@ -64,3 +64,26 @@ Primer estudio detallado del episodio. Continúa deliberadamente en **2 Reyes 5:
 - Marcos 1:40–45, variantes traducciones: https://www.biblegateway.com/passage/?search=Mark+1%3A40-45&version=NABRE%3BNIV%3BNKJV
 - Lucas 17:11–19, comentario: https://www.biblegateway.com/resources/ivp-nt/Ten-Lepers-Samaritans-Faith
 - Afección cutánea vs lepra Hansen, *Encyclopaedia Judaica*: https://jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0012_0_12153.html
+
+
+## Profundización del usuario: Dios concede victoria a Aram y una niña cautiva favorece al enemigo
+
+**Pregunta doble:** si 5:1 atribuye a YHWH la victoria de Aram mediante Naamán y 5:2 dice que tropas arameas capturaron a una niña israelita, ¿cómo puede concordar la soberanía/amor de Dios con ese secuestro? En el mismo cuadro, ¿no es la niña quien mejor revela amor al enemigo al sugerir una sanación en vez de desearle la muerte al comandante?
+
+**Evidencia textual:** 5:1 atribuye *teshu'ah* / victoria o liberación de Aram a YHWH mediante Naamán; 5:2 introduce las incursiones arameas y la captura de una niña israelita, que queda sirviendo a la esposa de Naamán. **No se afirma que esa captura integrara específicamente la victoria de 5:1, ni que Naamán la dirigiese o capturara personalmente a la niña.** La proximidad de las frases y la conexión entre prosperidad militar y secuestros sí producen una **tensión narrativa real**, que no desaparece con esa reserva histórica.
+
+**No equiparar descripción y aprobación:** atribuir victoria a YHWH no demuestra por sí solo que el narrador indique aprobación divina de la esclavización de la niña. Pero **tampoco resolver como dato que «Dios simplemente permitió»**: la forma activa de 5:1 impide presentar la agencia divina como asunto ya solventado. No reinterpretar automáticamente por Satanás ni suponer que el cautiverio «era necesario para llevar el mensaje a Naamán». Pregunta abierta de teodicea: «¿Dónde está Dios para la niña cuando el comandante recibe sanidad?».
+
+**Respuesta de la niña:** el v. 3 conserva una única frase de recomendación de ayuda: «¡Ojalá mi señor estuviera con el profeta de Samaria! Él lo sanaría». **Sólido:** ella comunica una posibilidad de bien para miembro del pueblo que la retiene cautiva y su iniciativa desencadena la búsqueda de sanación. **Posible, no comprobado:** ella perdonó íntimamente a captores, sentía amor consciente por Naamán o había optado entre pensar «Dios lo castigó» y desear su muerte. **No consta** que Naamán fuese causante directo de captura, liberase niña, reparase daño ni que niña se reuniera con familia. Dar agencia moral a la niña sin romantizar la esclavitud.
+
+**Confianza en lo no observado:** antes de 2 Re 5 no se ha **registrado** una curación de *tsara'at* por Eliseo. Jesús, en Lc 4:27, subraya que en su tiempo ninguno de los muchos israelitas con esta condición fue purificado por Eliseo, sino Naamán el sirio. La seguridad de la niña en el profeta es significativa, **pero no permite afirmar que jamás hubiera oído testimonio de una curación no narrada**, ni que conociera el desenlace de antemano.
+
+**Jesús como contraste / criterio:**
+- **Lc 22:49–51:** ante su detención, detiene la espada del discípulo, toca y sana al servidor del sumo sacerdote, integrante del grupo hostil. Caso particularmente próximo de hacer bien frente a agresión.
+- **Mt 5:43–48; Lc 6:27–36:** amar y hacer bien a enemigos; orienta una lectura de la acción de la niña como convergente con carácter del Padre, **sin atribuirle motivos interiores que el narrador calla**.
+- **Jn 9:1–3; Lc 13:1–5:** Jesús rechaza inferir automáticamente de la desgracia que la víctima es más pecadora o que debe ser tratada como culpable. **No se registra** que la enfermedad de Naamán sea castigo por su carrera militar.
+- **Lc 4:27:** Jesús destaca precisamente a Naamán como extranjero beneficiado, pero el texto no describe liberación de la niña. No convertir la sanación del poderoso en sustituto de justicia para la cautiva.
+
+**Contraevidencia ética y bibliográfica:** Paba Nidhani De Andrado, «The Resilience of the Captive Girl Child in 2 Kings 5», *Journal for the Study of the Old Testament* 45 (2021), https://journals.sagepub.com/doi/10.1177/0309089220963422, recoge lecturas de compasión/fe/coraje y lectura del acto como posible estrategia adaptativa de supervivencia de una víctima de trauma. No absolutizar una sola motivación.
+
+**Formulación provisional:** «El relato atribuye a Dios victorias de Aram sin narrar que aprobara el secuestro de la niña. La propia niña, sin poder político, hace posible un bien para alguien del reino que la retiene, de una manera consonante con Jesús sanando al servidor de sus captores. La responsabilidad divina en la victoria y la ausencia de justicia explícita para la niña siguen siendo cuestiones difíciles y abiertas». 
