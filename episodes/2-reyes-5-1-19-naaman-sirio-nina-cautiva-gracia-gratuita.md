@@ -86,4 +86,35 @@ Primer estudio detallado del episodio. Continúa deliberadamente en **2 Reyes 5:
 
 **Contraevidencia ética y bibliográfica:** Paba Nidhani De Andrado, «The Resilience of the Captive Girl Child in 2 Kings 5», *Journal for the Study of the Old Testament* 45 (2021), https://journals.sagepub.com/doi/10.1177/0309089220963422, recoge lecturas de compasión/fe/coraje y lectura del acto como posible estrategia adaptativa de supervivencia de una víctima de trauma. No absolutizar una sola motivación.
 
-**Formulación provisional:** «El relato atribuye a Dios victorias de Aram sin narrar que aprobara el secuestro de la niña. La propia niña, sin poder político, hace posible un bien para alguien del reino que la retiene, de una manera consonante con Jesús sanando al servidor de sus captores. La responsabilidad divina en la victoria y la ausencia de justicia explícita para la niña siguen siendo cuestiones difíciles y abiertas». 
+**Formulación provisional:** «El relato atribuye a Dios victorias de Aram sin narrar que aprobara el secuestro de la niña. La propia niña, sin poder político, hace posible un bien para alguien del reino que la retiene, de una manera consonante con Jesús sanando al servidor de sus captores. La responsabilidad divina en la victoria y la ausencia de justicia explícita para la niña siguen siendo cuestiones difíciles y abiertas».
+
+
+## Seguimiento: el enojo de Naamán y las siete inmersiones (5:9–14)
+
+**Texto:** el comandante llega con caballos y carro, Eliseo envía un mensajero y le indica sumergirse siete veces en el Jordán. Naamán se enfurece. Él **explica expresamente** qué esperaba: que Eliseo saliera, estuviera ante él, invocara a YHWH y agitara la mano sobre la parte enferma. Contrasta la orden con ríos de Damasco (Abaná/Farfar) que estima superiores. Sus servidores le recuerdan que habría seguido una instrucción difícil; finalmente acepta la sencilla.
+
+**Sólido:** no está objetando explícitamente el número siete de forma aislada; su rechazo abarca desajuste de ritual, trato impersonal y río elegido. **Probable:** la condición de alto rango agrava su frustración al recibir a un mensajero; pero el narrador no enumera «orgullo» o «humillación» como diagnóstico psicológico. Su deseo de curación coexiste con expectativas sobre el procedimiento. **Posible:** gesto ritual visible evocado refleja modelos antiguos de sanación religiosa, pero no demostrar que existía «ritual habitual» exacto visto por Naamán.
+
+**Siete:** número frecuente de completitud y purificación. Levítico 14 contempla aspersión siete veces en proceso de purificación de afecciones cutáneas, pero **no** manda siete baños en el Jordán y 2 Reyes 5 **no explica** el simbolismo. Relación posible/probable con purificación, no un mecanismo mágico o un rito idéntico.
+
+**Personas de bajo estatus:** la niña cautiva lo conduce al profeta y los servidores lo persuaden de obedecer; el poder no garantiza conocimiento ni docilidad. Comparar el valor que Jesús asigna a niños, extranjeros y servidores sin asignar motivos íntimos no narrados.
+
+## Profundización del usuario: respeto de los procesos espirituales (5:17–19)
+
+**Hallazgo pastoral:** Naamán acaba de reconocer a YHWH después de una sanación y pide dos cargas de suelo israelita para adorar en Siria, además de exponer su dilema de función política en templo de Rimón. Eliseo lo despide «Ve en paz» **sin reprensión o catequesis exhaustiva registrada**. El usuario propone que Eliseo respeta la forma en que Naamán comienza a vivir su espiritualidad y confía en que Dios podrá guiarlo gradualmente, en vez de exigir comprensión y prácticas perfectas de inmediato.
+
+**Distinciones:** 
+- **Texto sólido:** petición de tierra; confesión de exclusividad de sacrificios a YHWH; consulta angustiada respecto a la inclinación junto al rey en templo de Rimón; respuesta brevísima «Ve en paz». No se relata el desarrollo espiritual posterior ni que Naamán deje de utilizar tierra.
+- **Contexto histórico:** la tierra no es necesariamente «sin sentido» para Naamán. Nadav Na’aman, «An altar for Yhwh in the Land of Aram (2 Kings 5:17)», propone que pretende erigir altar a YHWH en Damasco usando tierra israelita; paralelos antiguos de traslado de suelo de lugar sagrado: https://cris.tau.ac.il/en/publications/an-altar-for-yhwh-in-the-land-of-aram-2-kings-517/. No está probado que él creyera literalmente que YHWH carecía de presencia fuera de Israel.
+- **Interpretación probable/posible:** respuesta no confrontativa y espacio para una fe en comienzo. **No se prueba** que Eliseo apruebe íntegramente la tierra o participación en Rimón, ni que ya haya plan divino explícito de reeducación gradual. Diferencias interpretativas en https://biblehub.com/commentaries/2_kings/5-19.htm.
+- **Jesús aporta soporte independiente al principio:** Jn 16:12–13 («tengo aún mucho que decirles, pero no pueden soportarlo ahora»; Espíritu guía hacia verdad) demuestra que Jesús considera capacidad y tiempo de aprendizaje. **Jn 4:20–24** muestra corrección dialogada de la concepción samaritana de adoración ligada a un monte; hay verdad/corrección real, no relativismo. **Mc 9:38–40** Jesús impide que discípulos prohíban a un hombre obrar en su nombre por no pertenecer al grupo, ejemplo de no imponer pertenencia/formato grupal como condición de actuar bien; analogía limitada.
+- **Aplicación a otras tradiciones cristianas:** un símbolo o imagen de Jesús puede ser ayuda devocional para alguien; no suponer que la persona cree que ese objeto sea un dios o indispensable. Conversar antes de juzgar, no imponer que destruya una imagen, compartir convicciones respetuosamente y acompañar cuando quiera examinar el asunto. **No equiparar el uso católico de imágenes con culto a Rimón**, ni afirmar desde 2 Re 5 que todas las prácticas religiosas son equivalentes. Si hay daño concreto, coerción o abuso, respeto del proceso no impone silencio.
+
+**Hipótesis cristocéntrica prudente:** «Acompañar la verdad sin dominar la conciencia ni exigir madurez espiritual instantánea». Apoya esta orientación principalmente Jn 16:12–13, Jn 4:20–24 y la despedida pacífica de 2 Re 5:19; la posibilidad de que Dios siga educando a Naamán no se relata y queda abierta.
+
+## Nivel de confianza adicional
+
+**Sólido:** expectativa ritual de Naamán expresada por él; rechazo inicial y obediencia final; Eliseo no lo reprende en escena por tierra/Rimón; Jesús habla de enseñar según lo que discípulos pueden soportar.
+**Probable:** significado cultual de traslado de tierra; contraste entre idea religiosa previa y encuentro renovador.
+**Posible:** Eliseo deja deliberadamente a Naamán espacio para aprender y crecer; el siete alude a plenitud/purificación.
+**Abierto:** qué creyó Naamán exactamente acerca de YHWH y tierra; posterior desarrollo religioso; aprobación o no de Eliseo a sus peticiones; cuánto y cuándo corregir prácticas de creyentes de diferentes tradiciones.
