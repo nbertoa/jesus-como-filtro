@@ -137,3 +137,14 @@ Objetivo del estudio:
 ## Regla
 
 No usar esta lista como un programa rígido. Puede aparecer cualquier otra pregunta profunda. Si ayuda a conocer mejor el carácter de Dios a través de Jesús, pertenece al proyecto.
+
+
+### Naamán, la victoria aramea y la niña cautiva — 2 Reyes 5:1–3
+
+- El narrador dice que YHWH concedió victoria a Aram mediante Naamán (5:1), mientras tropas arameas llevaron cautiva a una niña israelita (5:2). ¿Se trata de sucesos relacionados, pero **no identificados expresamente como una sola campaña**? ¿Hasta dónde implica el lenguaje de victoria acción divina, legitimación o soberanía sin aprobación de atrocidades?
+- ¿Dónde se manifiesta el amor de Dios **hacia la víctima** cuando el poderoso opresor obtiene sanación? El texto no narra liberación, retorno a su familia ni reparación para ella. No justificar su secuestro como un «medio necesario» del plan divino.
+- El consejo beneficioso de la niña a la esposa de Naamán (5:3) converge con «amar a los enemigos» (Mt 5; Lc 6). ¿Qué significa que esa bondad nazca de la persona cautiva? **No se conocen sus emociones ni podemos asegurar perdón interior**. Considerar críticamente lecturas de resiliencia/supervivencia.
+- ¿Cómo ilumina Lc 22:49–51, donde Jesús sana a un participante de quienes lo arrestan, el gesto de la niña? ¿Qué hace Jesús ante el daño sufrido por los vulnerables y cómo impide que la misericordia con el enemigo reemplace la justicia a las víctimas?
+- ¿Con qué fundamento puede alguien atribuir una enfermedad al castigo divino? Contrastar Jn 9:1–3 y Lc 13:1–5; 2 Re 5 no afirma que Naamán esté enfermo por sus campañas.
+- La niña parece confiar en la capacidad de Eliseo de sanarlo **sin que hubiera un milagro previo de ese tipo registrado**. ¿En qué se funda su confianza? No inventar experiencias previas o milagros no relatados.
+- Estudio de base: [Naamán y la niña cautiva](episodes/2-reyes-5-1-19-naaman-sirio-nina-cautiva-gracia-gratuita.md).
